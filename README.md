@@ -9,7 +9,10 @@
 
 <div> <hr> </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuut-Reis&show_icons=true&theme=dracula)
+### Meus graficos: 
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ### Tecnologias que utilizo:
 <div> <hr> </div>
@@ -27,9 +30,5 @@
   <br>
   <br>
 </div> 
-
-
-
-
 
 <div> <hr> </div>
