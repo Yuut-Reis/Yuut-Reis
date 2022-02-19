@@ -9,12 +9,12 @@
 
 <div> <hr> </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuut-Reis&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuut-Reis&show_icons=true&theme=dracula)
 
 ### Tecnologias que utilizo:
 <div> <hr> </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuut-Reis&layout=compacttrue&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuut-Reis&layout=compacttrue&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block" ><br>
   <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" > 
