@@ -1,20 +1,19 @@
-### Olá, seja bem vindo(a) ao meu Github! 👋
-
+### Olá, seja bem vindo(a) ao meu Github! ⭐
 <div> <hr> </div>
 
-### Minhas redes: 
+### 👥 Minhas redes: 
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ingride-reis-020097226/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yuut_reis/)
 
 <div> <hr> </div>
 
-### Meus graficos: 
+### 📈 Meus graficos: 
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-### Tecnologias que utilizo:
+### 💻 Tecnologias que utilizo:
 <div> <hr> </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuut-Reis&layout=compacttrue&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
