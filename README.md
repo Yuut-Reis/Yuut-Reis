@@ -14,3 +14,7 @@
 <div> <br> </div>
 
   ![alt text](images/contao.png)
+  
+  Email: ingride.reis.b@gmail.com 📬
+  <br>
+  Discord: Yuut#2692 🎮
