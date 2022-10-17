@@ -1,20 +1,23 @@
 ### Olá, seja bem vindo(a) ao meu Github! ⭐
+
 <div> <hr> </div>
 
-  ![alt text](images/sobre.png)
+![alt text](images/sobre.png)
   
 <div> <br> </div>
 
-![alt text](images/tecnologias.png)
+![alt text](images/front-end.png)
+
 
 <div> <br> </div>
 
-  ![alt text](images/ferramentas.png)
+![alt text](images/back-end.png)
+
+<div> <br> </div>
+
+![alt text](images/ferramentas.png)
   
 <div> <br> </div>
 
-  ![alt text](images/contao.png)
+![alt text](images/contao.png)
   
-  Email: ingride.reis.b@gmail.com 📬
-  <br>
-  Discord: Yuut#2692 🎮
