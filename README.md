@@ -83,7 +83,7 @@ uma vez que eu saiba o que está acontecendo por trás dos panos, Api REST, data
   <tr>
     <td valign="top" width="50%">
       <h2 align="center"><a href="">Procets in CSharp</a></h2>
-      <a href=""><img width="100%" src="./imagens/cSharpes.png" alt="logo do cSharpe" /></a>
+      <a href=""><img width="100%" src="https://github.com/Yuut-Reis/Yuut-Reis/blob/b60b2aeaa57f3c9d51623e90d814985ff94e23d5/images/cSaharpe.png" alt="logo do cSharpe" /></a>
       <br>
       <br>
       <p><em><strong>:wrench: Tools:</strong> C#, .NET XUNIT, FluentAssertions </em></p>
@@ -91,7 +91,7 @@ uma vez que eu saiba o que está acontecendo por trás dos panos, Api REST, data
     </td>
      <td valign="top" width="50%">
       <h2 align="center"><a href="">Procets in JavaScript</a></h2>
-      <a href=""><img width="100%" src="./imagens/javaScript.png" alt="logo do JavaScript" /></a>
+      <a href=""><img width="100%" src="https://github.com/Yuut-Reis/Yuut-Reis/blob/b60b2aeaa57f3c9d51623e90d814985ff94e23d5/images/javaScript.png" alt="logo do JavaScript" /></a>
       <br>
       <br>
       <p><em><strong>:wrench: Tools:</strong> JavaScript, HTML, CSS, REACT, JEST, RTL, NodeJS </em></p>
@@ -101,7 +101,7 @@ uma vez que eu saiba o que está acontecendo por trás dos panos, Api REST, data
   <tr>
      <td valign="top" width="50%">
       <h2 align="center"><a href="">Procets in TypeScript</a></h2>
-      <a href=""><img width="100%" src="./imagens/typeScript.png" alt="logo do TypeScript" /></a>
+      <a href=""><img width="100%" src="https://github.com/Yuut-Reis/Yuut-Reis/blob/b60b2aeaa57f3c9d51623e90d814985ff94e23d5/images/typeScript.png" alt="logo do TypeScript" /></a>
       <br>
       <br>
       <p><em><strong>:wrench: Tools:</strong> TypeScript, React, Sequelize, POO, SOLID </em></p>
@@ -109,7 +109,7 @@ uma vez que eu saiba o que está acontecendo por trás dos panos, Api REST, data
     </td>
      <td valign="top" width="50%">
       <h2 align="center"><a href="">Procets in Python</a></h2>
-      <a href=""><img width="100%" src="./imagens/python.png" alt="logo do Python" /></a>
+      <a href=""><img width="100%" src="https://github.com/Yuut-Reis/Yuut-Reis/blob/b60b2aeaa57f3c9d51623e90d814985ff94e23d5/images/python.png" alt="logo do Python" /></a>
       <br>
       <br>
       <p><em><strong>:wrench: Tools:</strong> Python, Pytest</em></p>
